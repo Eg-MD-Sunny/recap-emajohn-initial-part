@@ -1,0 +1,12 @@
+.cart-wrapper{
+    display: flex;
+}
+.upper-contant{
+    text-align: center;
+}
+.price-container{
+    margin-left: 20px;
+}
+.color-verient{
+    color: red;
+}

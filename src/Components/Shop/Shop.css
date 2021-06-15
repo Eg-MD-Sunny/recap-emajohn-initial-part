@@ -1,0 +1,26 @@
+.shop-container{
+    display: flex;
+    margin-left: 5%;
+    border-bottom: 1px solid rgb(206, 195, 195);
+    margin-right: 15px;
+    padding-bottom: 2%;
+}
+.product-content{
+    margin-left: 5%;
+}
+.text-color{
+    color: blue;
+    font-size: 18px;
+    font-weight: 300;
+}
+.main-button{
+    background-color: goldenrod;
+    width: 130px;
+    height: 30px;
+    border-radius:7px;
+    border: none;
+    cursor: pointer;
+}
+.position-shift{
+    margin-right: 10px;
+}
