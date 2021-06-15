@@ -1,4 +1,4 @@
-`Project Name:` `Project Ecommerce Part-01` \
+`Project Name:` `[Recap] Project Ecommerce Part-01` \
 `LIVE LINK:` https://recap-emajohn-initial-part.netlify.app/
 
 
